@@ -2,7 +2,7 @@
 logging:
   level:
     root: INFO
-    com.huytmb: DEBUG
+    com.bezzine: DEBUG
     org.springframework.integration: DEBUG
 
 # Mail
